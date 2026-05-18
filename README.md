@@ -21,7 +21,7 @@ vesting schedules, and automated payment streams.
 ---
 
 ### 📋 Requirements
-* **Python 3.10+**
+* **Python 3.13+**
 * **Dependencies:** `solana`, `solders`, `customtkinter`, `cryptography`, `requests`
 * **Build Tool:** `maturin` (for Rust extensions)
 
