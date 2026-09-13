@@ -15,6 +15,7 @@ vesting schedules, and automated payment streams.
 
 <p align="center">
 <a href="https://t.me/timelocky">Telegram</a> •
+  <a href="https://velix.no/timelocky">Website</a> •
 <a href="https://github.com/SuperKunten/TimeLocky">GitHub</a>
 </p>
 
